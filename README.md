@@ -24,13 +24,13 @@
 
 1. Clone repo:
 ```
-git clone https://github.com/<your-username>/resume-analyser.git
-cd resume-analyser
+git clone https://github.com/mayhemking007/Resume-Analyser.git
+cd Resume-Analyser
 ```
 2. Create virtual env & install:
 ```
 python -m venv .venv
-source .venv/bin/activate   # or .venv\Scripts\activate on Windows
+.venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 3. Run:
