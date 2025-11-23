@@ -74,4 +74,4 @@ top_results = [{"filename": filenames[i], "score": float(sims[i]*100)} for i in 
 
 - Normalize synonyms (e.g., “JavaScript” vs “JS”).
 
-- Add unit tests for parser & ranking; set up CI.
+- Add unit tests for parser & ranking and set up CI.
